@@ -41,6 +41,12 @@ Since $\nabla \cdot E =\rho$, then we can represent 1D $\rho$ with $\rho = \sum 
 
 and therefore $E = \int \rho \,dx = \frac{1}{ik}\rho$
 
+### Code Usage
+
+View final distribution by running run.py (faster)
+
+Get animation by running animate.py
+
 ### Output Interpretation
 
 Plot shows the density function in both the x and v domain. The classic 2 stream instability test is used and shows the evolution of a 1-D plasma.
